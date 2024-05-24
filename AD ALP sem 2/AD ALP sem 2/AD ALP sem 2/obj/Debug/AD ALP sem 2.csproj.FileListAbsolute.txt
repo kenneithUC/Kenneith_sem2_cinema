@@ -1,0 +1,40 @@
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\AD ALP sem 2.exe.config
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\AD ALP sem 2.exe
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\AD ALP sem 2.pdb
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD ALP sem 2.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD ALP sem 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form1.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Properties.Resources.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD ALP sem 2.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD ALP sem 2.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD ALP sem 2.exe
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD ALP sem 2.pdb
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form3.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form4.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form5.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form6.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form2.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\MySql.Data.dll
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\Google.Protobuf.dll
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\ZstdNet.dll
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\System.Buffers.dll
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\bin\Debug\MySql.Data.xml
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD ALP sem 2.exe.config
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD ALP sem 2.csproj.CopyComplete
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form7.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form8.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form9.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form10.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form11.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form13.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form14.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form15.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form12.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form16.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form17.resources
+C:\Users\ROG\source\repos\AD ALP sem 2\AD ALP sem 2\obj\Debug\AD_ALP_sem_2.Form19.resources

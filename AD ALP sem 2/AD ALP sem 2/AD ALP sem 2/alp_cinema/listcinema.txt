@@ -1,0 +1,20 @@
+Avengers: Endgame,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\1.jpeg
+Thor: Ragnarok,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\2.jpeg
+The Amazing Spider-Man,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\3.jpeg
+Ant-Man,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\4.jpeg
+Harry Potter,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\5.jpeg
+Inception,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\6.jpeg
+Jurassic Park,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\7.jpeg
+Star Wars: A New Hope,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\8.jpeg
+Forrest Gump,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\9.jpg
+Titanic,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\10.jpg
+The Lord of the Rings,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\11.jpg
+The Dark Knight,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\12.jpg
+The Shawshank Redemption,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\13.jpg
+The Godfather,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\14.jpg
+Fight Club,‪C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\15.jpg
+The Matrix,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\16.jpg
+Goodfellas,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\17.jpg
+The Silence of the Lambs,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\18.jpg
+The Prestige,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\19.jpg
+The Departed,C:\Users\ROG\Downloads\ALP_CINEMA zip 1(1)\ALP_CINEMA\ALP_CINEMA\bin\Debug\alp_cinema\20.jpg
